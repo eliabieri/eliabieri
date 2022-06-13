@@ -1,5 +1,5 @@
 ## Hi, I'm Elia 🦦
-I'm a 25-year-old self-taught programmer from Bern, CH.  
+I'm a 26-year-old self-taught programmer from Bern, CH.  
 Solving everyday problems is what I'm most passionate about.  
 I strongly believe in learning by doing.  
 What I love is to iterate fast, try unconventional approaches, and I'm not afraid of doing a deep dive into new technology.  
