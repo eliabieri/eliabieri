@@ -8,4 +8,4 @@ I work as a Fullstack-Developer part-time and also do freelance work. I make app
 
 You can read all about my current projects at [eliabieri.dev](https://eliabieri.dev)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=eliabieri&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=eliabieri&theme=dark&mode=weekly)](https://git.io/streak-stats)
